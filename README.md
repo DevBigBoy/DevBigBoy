@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevMohamedElshazly](https://github.com/DevMohamedElshazly)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **moshazly416@gmail.com**
 
