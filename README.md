@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elshazly Fronted developer</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Elshazly Data Analytics </h1>
+<h3 align="center">A passionate Data Analytics from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmohamedelshazly&label=Profile%20views&color=0e75b6&style=flat" alt="devmohamedelshazly" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevMohamedElshazly](https://github.com/DevMohamedElshazly)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Insights **
 
 - 📫 How to reach me **moshazly416@gmail.com**
 
-- ⚡ Fun fact **WE CAN DO ANYTHING**
+- ⚡ Fun fact **WE CAN DO ANYTHING IF YOU BELIEVE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
