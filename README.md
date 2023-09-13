@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/devbigboy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.facebook.com/DevBigBoy/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/DevBigBoy">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -19,15 +19,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyadhamza" alt="DevBigBoy" /></a> </p>
 
---
-
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
 - 💬 Ask me about **Laravel & PHP**
 
 - 📫 How to reach me
-
---
 
 <div>
   <h3 align="left">Languages and Tools:</h3>
@@ -46,8 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevBigBoy&show_icons=true&locale=en&layout=compact" alt="DevBigBoy" /></p>
 
