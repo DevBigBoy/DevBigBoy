@@ -5,7 +5,7 @@ Web developer
 -------------
 
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [devbigboy4@gmail.com](mailto:devbigboy4@gmail.com)
+* ✉️  You can contact me at [dev.mohamedelshazly@gmail.com](mailto:dev.mohamedelshazly@gmail.com)
 * 🧠  I'm learning Laravel
 * ⚡  كل دى فران .... كل ده بجرب
 
