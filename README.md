@@ -6,7 +6,7 @@ Web developer
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [dev.mohamedelshazly@gmail.com](mailto:dev.mohamedelshazly@gmail.com)
-* 🧠  I'm learning Laravel
+* 🧠  I'm Currently Learning Magento (Adobe Commerce)
 * ⚡  كل دى فران .... كل ده بجرب
 
 <a href="https://www.github.com/DevBigBoy" target="_blank" rel="noreferrer"><img
